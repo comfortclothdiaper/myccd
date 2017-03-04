@@ -1,4 +1,2 @@
-# myCCD
-comfort cloth diaper
-
-![Codeship Status]{https://codeship.com/projects/YOUR_PROJECT_UUID/status?branch=master}
+# myccd
+just demo
