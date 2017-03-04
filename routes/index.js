@@ -2,8 +2,6 @@ var express = require('express');
 var router = express.Router();
 var bodyParser = require('body-parser');
 
-// var Schema = mongoose.Schema;
-
 var retailerCtrl = require('../controller/becomeRetailer.server.controller.js');
 
 router.post('/saveRetailerDetails', function (req, res) {
